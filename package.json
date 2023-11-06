@@ -1,0 +1,19 @@
+{
+  "name": "digikala",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node-sass -w scss/main.scss -o css/ -r",
+    
+  },
+  "keywords": [],
+  "author": "Tina Moradkhani",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "node-sass": "^9.0.0",
+    "swiper": "^10.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
